@@ -1,0 +1,31 @@
+#about{
+    color: #bbb;
+    padding: 1rem;
+}
+#about-container{
+    padding: 0.5rem;
+    margin: 1.5rem 1rem;
+    font-family: "Fira Code", monospace;
+}
+
+.info{
+    display: block;
+    text-align: start;
+    /* border: .5px solid red; */
+    line-height: 1.5;
+    margin: 1rem 0;
+}
+.grade{
+    text-align: center;
+}
+
+#footer-container{
+    margin: 1rem 2rem;
+}
+.social-ctn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
